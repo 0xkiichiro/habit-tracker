@@ -12,7 +12,7 @@ HTML, CSS, JS, Bootstrap
 
 ## Check the full-functioning site at: https://0xkiichiro.github.io/habit-tracker/
 
-![](https://github.com/0xkiichiro/habit-tracker/blob/master/Anination.gif)
+![](https://github.com/0xkiichiro/habit-tracker/blob/master/Animation.gif)
 
 ## Comments
 
